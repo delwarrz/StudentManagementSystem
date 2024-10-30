@@ -29,6 +29,6 @@ Clone the repository and run the `main.py` script. The menu will guide you throu
 - **Python 3.x**
 
 ```bash
-git clone https://github.com/your-username/student-management-system.git
-cd student-management-system
+git clone https://github.com/delwarrz/StudentManagementSystem.git
+cd StudentManagementSystem
 python main.py
